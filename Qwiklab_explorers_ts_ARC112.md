@@ -5,8 +5,7 @@
 * ### Run the following Commands in CloudShell
 ```
 export REGION=
-```
-```
+
 export MESSAGE=""
 ```
 ```
